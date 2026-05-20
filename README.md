@@ -1,4 +1,4 @@
-# SMPTE _RP 200_ - _Relative and Absolute Sound Pressure Levels for Motion-Picture Multichannel Sound Systems — Applicable for Analog Photographic Film Audio, Digital Photographic Film Audio and D-Cinema_
+# SMPTE _RP 200_ - _Relative and Absolute Sound Pressure Levels for Motion-Picture Multichannel Sound Systems_
 
 _This repository is public._ 
 
